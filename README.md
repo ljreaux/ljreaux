@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Larry Reaux (@ljreaux).
 - 👀 I’m passionate about fullstack web development.
-- 🌱 I’m currently enhancing my skills in TypeScript.
+- 🌱 I’m currently enhancing my skills in Next.js.
 - 💞️ I’m looking to collaborate on my project MeadTools.
 - 📫 How to reach me: connect with me on [LinkedIn](https://www.linkedin.com/in/ljreaux/).
 - 😄 Pronouns: he/him
